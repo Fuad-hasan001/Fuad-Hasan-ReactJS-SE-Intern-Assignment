@@ -1,7 +1,7 @@
 import React from 'react';
-import './Update.css'
+import './Delete.css'
 
-const Update = () => {
+const Delete = () => {
     return (
         <div>
             
@@ -9,4 +9,4 @@ const Update = () => {
     );
 };
 
-export default Update;
+export default Delete;
